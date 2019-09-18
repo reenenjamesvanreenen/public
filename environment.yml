@@ -1,0 +1,4 @@
+name: public_py
+dependencies:
+  - numpy
+  - scipy
